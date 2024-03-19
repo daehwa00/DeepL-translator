@@ -1,4 +1,4 @@
-# 파이썬을 이용한 텍스트 번역 도구
+# Text translation tool using DeepL
 
 이 프로젝트는 DeepL API를 활용하여 텍스트 파일의 내용을 번역하는 파이썬 스크립트입니다. 사용자는 영어로 된 텍스트 파일을 input.txt에 입력하면, 스크립트가 해당 내용을 한국어로 번역하여 combined.txt에 저장합니다.
 
